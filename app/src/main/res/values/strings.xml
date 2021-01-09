@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">计算器</string>
+    <string name="button_01">0</string>
+    <string name="button_02">1</string>
+    <string name="button_03">2</string>
+    <string name="button_04">3</string>
+    <string name="button_05">4</string>
+    <string name="button_06">5</string>
+    <string name="button_07">6</string>
+    <string name="button_08">7</string>
+    <string name="button_09">8</string>
+    <string name="button_10">9</string>
+    <string name="button_11">.</string>
+    <string name="button_12">=</string>
+    <string name="button_13">+</string>
+    <string name="button_14">-</string>
+    <string name="button_15">×</string>
+    <string name="button_16">÷</string>
+    <string name="button_17">%</string>
+    <string name="button_18">👈</string>
+    <string name="button_19">C</string>
+    <string name="button_more">🔁</string>
+    <string name="button_20">(</string>
+    <string name="button_21">)</string>
+    <string name="button_22">π</string>
+    <string name="button_23">e</string>
+    <string name="button_24"></string>
+</resources>

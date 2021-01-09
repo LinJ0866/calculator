@@ -1,0 +1,31 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#ffffff</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:navigationBarColor">#000000</item>
+    </style>
+
+    <style name="calcu_button">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:background">#ffffff</item>
+        <item name="android:textSize">25dp</item>
+    </style>
+    <style name="calcu_button_f" parent="calcu_button">
+        <item name="android:textColor">#FFFD762E</item>
+    </style>
+    <style name="calcu_button_super" parent="calcu_button">
+        <item name="android:textColor">#7E7C7B</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textSize">20dp</item>
+    </style>
+    <style name="calcu_button_sum" parent="calcu_button">
+        <item name="android:background">#FFFD762E</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">23dp</item>
+    </style>
+
+</resources>
